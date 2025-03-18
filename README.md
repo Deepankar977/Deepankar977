@@ -16,9 +16,10 @@
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/deepankarbh-wapt/)
 <br>
+
 🥷🏼 **Codewars Rank badge:**
- 
-- ![Codewars](https://www.codewars.com/users/Deepankar_77_/badges/small)  
+
+- ![Codewars rank](https://www.codewars.com/users/Deepankar_77_/badges/small)
 
 😄 **Pronouns:**  
 - He/Him  
